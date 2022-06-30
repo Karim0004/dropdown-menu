@@ -1,7 +1,7 @@
 {
-  "name": "js-drop-down-menu",
+  "name": "js-dropdown-menu",
   "version": "1.0.0",
-  "description": "Javascript drop down menu module",
+  "description": "Create ready-to-go dropdown menus in Javascript",
   "main": "index.js",
   "type": "module",
   "scripts": {

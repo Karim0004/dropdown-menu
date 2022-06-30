@@ -1,5 +1,5 @@
 /* eslint-disable no-param-reassign */
-const dropdown = (() => {
+const Dropdown = (() => {
   const menuMethods = {
     add(textOrElement, onClickFunction) {
       const item = document.createElement('div');
@@ -109,4 +109,4 @@ const dropdown = (() => {
   return { create };
 })();
 
-export default dropdown;
+export default Dropdown;

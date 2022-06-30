@@ -1,15 +1,15 @@
-# @Karim04/Dropdown-menu
+# @karim04/Dropdown-menu
 a Javascript module that creates ready-to-go dropdown menus <br>
 ![Preview Image](https://live.staticflickr.com/65535/52185159485_5647a5ec60_o.png)
 
 ## installation
 ```
-npm install --save @Karim04/dropdown-menu
+npm install --save @karim04/dropdown-menu
 ```
 ## Usage
 ##### import the module in your code
 ```
-import Dropdown from '@Karim04/dropdown-menu';
+import Dropdown from '@karim04/dropdown-menu';
 ```
 ##### and create a dropdown menu using:
 ```

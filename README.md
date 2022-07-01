@@ -1,4 +1,4 @@
-# @karim04/Dropdown-menu
+# @karim04/dropdown-menu
 a Javascript module that creates ready-to-go dropdown menus <br>
 ![Preview Image](https://live.staticflickr.com/65535/52185159485_5647a5ec60_o.png)
 

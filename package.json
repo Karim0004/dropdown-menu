@@ -1,6 +1,6 @@
 {
-  "name": "js-dropdown-menu",
-  "version": "1.0.0",
+  "name": "@karim04/dropdown-menu",
+  "version": "1.0.2",
   "description": "Create ready-to-go dropdown menus in Javascript",
   "main": "index.js",
   "type": "module",
@@ -11,6 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/Karim0004/js-drop-down-menu.git"
   },
+  "keywords": [
+    "dropdown",
+    "dropdown-menu",
+    "Dropdown Menu",
+    "Menu"
+    ],
   "author": "Karim04",
   "license": "ISC",
   "bugs": {
